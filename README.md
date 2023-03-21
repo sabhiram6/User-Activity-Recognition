@@ -17,9 +17,11 @@ To view your activity data, open the app and select the "Activity History" optio
 You can also view your activity data in real-time by selecting the "Live Activity" option from the menu. This will show you a live feed of your current activity, along with a map showing your current location.
 
 CONTRIBUTING 
+
 If you would like to contribute to this project, feel free to fork this repository and submit a pull request with your changes. We welcome any contributions that can help improve the accuracy and reliability of our activity recognition algorithms.
 
 LICENSE
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ACKNOWLEDGEMENTS
