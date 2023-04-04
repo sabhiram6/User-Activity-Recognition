@@ -1,5 +1,5 @@
 
-USER ACTIVITY RECOGNITION
+# USER ACTIVITY RECOGNITION
 
 This project is an Android application that uses the Google Play services API for activity recognition to track a user's activities and provide insights into their activity patterns. The app uses sensors such as accelerometers, gyroscopes, and GPS to track user movements and classify them into various activities such as still, walking, running, Vehicle      .
 
